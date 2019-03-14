@@ -1,6 +1,6 @@
 # Speedometer
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.5.
+This project provides the code outlined in the article [Add a Real-Time Gauge To Your Angular Project](http://www.wayneparrott.com/add-a-realtime-g…-angular-project/). 
+The project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.5.
 
 ## Development server
 
